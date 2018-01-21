@@ -1,4 +1,5 @@
-import sys
+# Merge Sort : the complexity of the program is O(nlogn), it is more efficient than quick sort and used for
+#large data
 def mergeSort(A):
     merge_sort2(A,0,len(A)-1)
 
